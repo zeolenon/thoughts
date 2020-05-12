@@ -1,2 +1,2 @@
 # thoughts
-random thoughts, to be shared
+random thoughts, to be quickly shared
